@@ -26,8 +26,8 @@ I work in the unglamorous part of security — the part where the alerts go off,
 ### 🎯 Featured writing
 
 - 📖 [**My Server Was Attacked Within 24 Hours of Going Live**](https://securebydefault.io/blog/server-attacked-24-hours-live/) — Real Nginx logs, what bots were hunting for, and how I shut it down
-- 📖 [**How to Protect Your Cloud Server From DDoS Attacks: A Practitioner's Guide**](https://securebydefault.io) — Defense-in-depth from someone who did this for a living
-- 📖 [**7 AI-Powered Cybersecurity Tools That Actually Fit a Small Business**](https://securebydefault.io) — Honest picks, no enterprise jargon
+- 📖 [**NordVPN vs Surfshark for IT Professionals: Which VPN Actually Holds Up Under Pressure?**](https://securebydefault.io/blog/nordvpn-vs-surfshark-it-professionals/) — An honest NordVPN vs Surfshark comparison for IT professionals and cloud engineers
+- 📖 [**7 AI-Powered Cybersecurity Tools That Actually Fit a Small Business**](https://securebydefault.io/blog/ai-cybersecurity-tools-small-business-2026/) — Honest picks, no enterprise jargon
 
 ---
 
