@@ -35,7 +35,7 @@ I work in the unglamorous part of security; the part where the alerts go off, th
 
 `MSc Cybersecurity` · `CySA+` · `PenTest+` · `ISC2 CC` · `AWS Certified Cloud Practitioner`
 
-Previously: **Akamai Technologies** — DDoS mitigation, incident response, Linux cloud support
+Previously: **Akamai Technologies** - DDoS mitigation, incident response, Linux cloud support
 
 ---
 
