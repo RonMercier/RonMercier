@@ -44,7 +44,7 @@ I work where cloud support meets security - complex escalations, live incident t
 
 ### 🔌 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolioronmercier101.com00D4FF?style=flatsquare&logo=safari&logoColor=000)](https://ronmercier101.com)
+[![Portfolio](https://img.shields.io/badge/Portfolioronmercier101.com00D4FF?style=flatsquare&logo=safari&logoColor=000)](https://ron-mercier101.com)
 [![Website](https://img.shields.io/badge/Blogsecurebydefault.io00D4FF?style=flatsquare&logo=safari&logoColor=000)](https://securebydefault.io)
 [![Newsletter](https://img.shields.io/badge/NewsletterThe%20SecureByDefault%20Brief00D4FF?style=flatsquare&logo=substack&logoColor=000)](https://newsletter.securebydefault.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedInRon%20Mercier0A66C2?style=flatsquare&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronmercier)
