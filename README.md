@@ -9,10 +9,11 @@ I work where cloud support meets security: complex escalations, live incident tr
 - **AWS serverless engineering** - Lambda, DynamoDB, API Gateway, SAM, OIDC-authenticated CI/CD
 - **Practical security writing** - real attack breakdowns and honest tool reviews at [SecureByDefault.io](https://securebydefault.io)
 
-### 📡 Currently building
-- 🛡️ [**SecureByDefault.io**](https://securebydefault.io) - Real attack breakdowns, vetted tools, no hype
-- 📬 [**The SecureByDefault Brief**](https://newsletter.securebydefault.io) - Weekly security newsletter for IT pros
-- 🔧 Open-source security toolkits, hardening configs, and incident-response resources (pinned below)
+### 🔬 Currently building
+
+- 🛡️ [SecureByDefault.io](https://securebydefault.io) - Practical Linux, cybersecurity, cloud, and IT learning.
+- 🗺️ [SecureByDefault Learning Paths](https://github.com/SecureByDefault-io/securebydefault-learning-paths) - Free hands-on learning paths for Linux, IT support, cloud, cybersecurity, networking, and DevOps
+- 📬 [The SecureByDefault Brief](https://newsletter.securebydefault.io) - Weekly practical lessons on Linux, cybersecurity, cloud, and IT skills in plain language
 
 ### 🎯 Featured writing
 - 📖 [**My Server Was Attacked Within 24 Hours of Going Live**](https://securebydefault.io/blog/server-attacked-24-hours-live/) - Real Nginx logs, what the bots were hunting for, and how I shut it down
